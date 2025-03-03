@@ -1,10 +1,13 @@
 # Loan-Approval-Prediction-Project
 
 Problem Definition
+
 Loan approval prediction poses a unique challenge due to the multifaceted nature of the factors that influence an applicant’s ability to repay a loan. Traditionally, loan officers have relied on a set of criteria—such as credit score, income level, age, and past loan repayment history—when determining the risk associated with lending money to an individual. However, this process often lacks objectivity and is subject to human bias, where subjective interpretations of the data can lead to unfair or inconsistent decisions. Additionally, the sheer volume of loan applications in large financial institutions makes it increasingly difficult for human evaluators to maintain accuracy and efficiency.
 
 
-The primary problem to address in this case study is the creation of an automated predictive model capable of accurately forecasting whether a given loan application will be approved or rejected. The model should take into account a variety of features that can significantly affect the loan decision, including:
+The primary problem to address in this case study is the creation of an automated predictive model capable of accurately forecasting whether a given loan application will be approved or rejected. 
+
+The model should take into account a variety of features that can significantly affect the loan decision, including:
 
 
 Demographic factors: Age, marital status, education level, and employment status, which often influence an applicant's financial stability and future earning potential.
