@@ -6,7 +6,6 @@ Loan approval prediction poses a unique challenge due to the multifaceted nature
 
 
 The primary problem to address in this case study is the creation of an automated predictive model capable of accurately forecasting whether a given loan application will be approved or rejected. 
-
 The model should take into account a variety of features that can significantly affect the loan decision, including:
 
 
