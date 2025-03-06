@@ -10,45 +10,45 @@ Dataset Link: https://drive.google.com/file/d/1n1I3hEcgN-YKycu174QRVXcqW2xmQk99/
 
 1. Data Loading & Exploration
 
-• Load data using pandas.
+   • Load data using pandas.
 
-• Check for missing values and basic data stats.
+   • Check for missing values and basic data stats.
 
-• Handle missing values by filling with median (numeric) and mode (categorical).
+   • Handle missing values by filling with median (numeric) and mode (categorical).
 
 2. Encoding Categorical Variables
 
-• Convert education, self_employed, and loan_status into numeric using LabelEncoder.
+   • Convert education, self_employed, and loan_status into numeric using LabelEncoder.
 
 3. Feature Engineering
 
-• Drop irrelevant columns (loan_id).
+   • Drop irrelevant columns (loan_id).
 
-• Set loan_status as target variable y, and remaining columns as features X.
+   • Set loan_status as target variable y, and remaining columns as features X.
 
 4. Data Preprocessing
 
-• Train-test split (80-20).
+   • Train-test split (80-20).
 
-• Standardize numerical features using StandardScaler.
+   • Standardize numerical features using StandardScaler.
 
 5. Model Training
 
-• Use Random Forest Classifier for prediction.
+   • Use Random Forest Classifier for prediction.
 
-• Train on X_train, y_train.
+   • Train on X_train, y_train.
 
 6. Model Evaluation
 
-• Predict on X_test.
+   • Predict on X_test.
 
-• Evaluate using:
+   • Evaluate using:
 
-• Accuracy Score
+   • Accuracy Score
 
-• Classification Report
+   • Classification Report
 
-• Confusion Matrix
+   • Confusion Matrix
 
 # Evaluation Metrics
 
